@@ -1,10 +1,9 @@
+ HEAD
 # 📸 Face Recognition Attendance System
 
 A complete **face recognition-based attendance management system** built with **Python**, **OpenCV**, **Streamlit**, and **MongoDB**.  
 It allows students to log in, take attendance using a camera, and stores attendance records in MongoDB as well as a CSV backup.  
 Admins have a dashboard to manage, edit, and visualize attendance.
-
----
 
 ## 🚀 Features
 
@@ -49,7 +48,6 @@ Admins have a dashboard to manage, edit, and visualize attendance.
 └── README.md → Documentation
 
 
----
 
 ## ⚙️ Requirements
 
@@ -200,7 +198,7 @@ MongoDB for backend data handling
 This project is open-source and free to use for educational purposes.
 
 
----
+
 
 Required for your UI & server:
 
@@ -243,3 +241,6 @@ protobuf
 
 ✅ Install everything
 pip install -r requirements.txt
+
+# projects
+ 979d8d4c0cb0d76f52834ee039d0cdc39e906987
